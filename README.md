@@ -1,4 +1,7 @@
-# test coverage for  [binary-csv (v0.2.3)](https://github.com/maxogden/binary-csv)  [![npm package](https://img.shields.io/npm/v/npmtest-binary-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-binary-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-binary-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-binary-csv)
+# npmtest-binary-csv
+
+#### basic test-coverage for  [binary-csv (v0.2.3)](https://github.com/maxogden/binary-csv)  [![npm package](https://img.shields.io/npm/v/npmtest-binary-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-binary-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-binary-csv.svg)](https://travis-ci.org/npmtest/node-npmtest-binary-csv)
+
 #### A fast CSV binary data parser written in javascript
 
 [![NPM](https://nodei.co/npm/binary-csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/binary-csv)
